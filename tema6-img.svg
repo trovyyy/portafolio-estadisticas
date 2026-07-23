@@ -1,0 +1,11 @@
+<svg viewBox="0 0 700 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="300" fill="#eef1f5"/>
+  <g transform="translate(90,40)">
+    <line x1="0" y1="190" x2="500" y2="190" stroke="#5b6b7c" stroke-width="2"/>
+    <path d="M0 190 C 80 190, 120 20, 250 20 C 380 20, 420 190, 500 190" fill="none" stroke="#0b1f3a" stroke-width="4"/>
+    <path d="M150 190 C 180 190, 200 60, 250 60 C 300 60, 320 190, 350 190 Z" fill="#2f6fed" opacity="0.35"/>
+    <line x1="250" y1="190" x2="250" y2="20" stroke="#2f6fed" stroke-width="2" stroke-dasharray="5,4"/>
+    <text x="235" y="15" font-family="Arial" font-size="13" fill="#2f6fed" font-weight="bold">μ</text>
+    <text x="150" y="220" font-family="Arial" font-size="14" fill="#5b6b7c">Distribución normal</text>
+  </g>
+</svg>
